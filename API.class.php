@@ -1,3 +1,4 @@
+<<?php
 abstract class API
 {
     /**
@@ -106,3 +107,4 @@ abstract class API
         return ($status[$code])?$status[$code]:$status[500];
     }
 }
+?>

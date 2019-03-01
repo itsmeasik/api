@@ -1,3 +1,4 @@
+<<?php
 require_once 'API.class.php';
 class MyAPI extends API
 {
@@ -34,3 +35,4 @@ class MyAPI extends API
         }
      }
  }
+?>
